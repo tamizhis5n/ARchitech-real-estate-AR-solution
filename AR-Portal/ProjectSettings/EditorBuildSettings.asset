@@ -11,16 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
     guid: e6a6fa04348cb45c9b0221eb19c946da
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/ARTest.unity
-    guid: a3296f8eaedc8514fb6635fb11e51517
-  - enabled: 0
-    path: Assets/Scenes/HouseTour.unity
-    guid: 1c0e14935e8e45149af4754a492c4505
   - enabled: 1
-    path: Assets/HouseXray.unity
-    guid: 535d91eff01c6e648baa4d0ed124c84d
+    path: Assets/Scenes/ARAlternate.unity
+    guid: 04320bddd40d156468872e5d6ac7770a
   m_configObjects: {}
