@@ -25,14 +25,14 @@ Using cutting edge Augmented Reality technology powered by AR Cloud Service Echo
 
 <h2 align="center"> Application of Augmented Reality </h2>  
 
-A real-time Augmented Reality application which renders multiple infrastructural models in worldspace through Android Devices with an ARCore enabled Camera. 
-AR modules include 1:1 scale interactable and explorable models. These modules can be selected manually by the user through the UI menu.
-The modules consist of:
+<li>A real-time Augmented Reality application which renders multiple infrastructural models in worldspace through Android Devices with an ARCore enabled Camera.<br></li> 
+<li>AR modules include 1:1 scale interactable and explorable models. These modules can be selected manually by the user through the UI menu.
+The modules consist of:<br></li>
 Furnished 1:1 scale model of a House with a UI overlay
 Empty 1:1 scale model of a House with a UI overlay
 1:1 scale model of a House with structural details such as layout and sizes.
 
-Additional echoARbuddy app includes Construction Phases expressed through 3D models created in Blender and rendered through the echoAR console
+<li>Additional echoARbuddy app includes Construction Phases expressed through 3D models created in Blender and rendered through the echoAR console<br></li>
 
 
 
