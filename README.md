@@ -34,11 +34,15 @@ Empty 1:1 scale model of a House with a UI overlay
 
 <li>Additional echoARbuddy app includes Construction Phases expressed through 3D models created in Blender and rendered through the echoAR console<br></li>
 
+<h2 align="center"> Day 2 Additions for the Hackathon </h2>  
 
+<p align="center">
+<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2add.PNG?raw=true">
+</p>
 
-
-
-
+<p align="center">
+<img src="https://github.com/ReanSchwarzer1/Acceture-Hackathon-MaTrEx/blob/master/Research%20Paper/Research%20Paper.png?raw=true">
+</p>
 
 
 
