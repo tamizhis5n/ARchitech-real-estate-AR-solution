@@ -71,7 +71,7 @@ Construction phase previews<br>
 ![Demo2](https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/demo2.gif "Demo2")
 ![Demo3](https://github.com/ReanSchwarzer1/Self-Driving-Car-Unity/blob/master/Assets/nn1.gif "Demo3")
 
-
+For the full video visit: https://drive.google.com/file/d/1Vme4T5QHkhvyDRu-nrMR0awDXzoXvMdG/view
 
 
 
