@@ -65,10 +65,10 @@ Construction phase previews<br>
 
 <li>Finally we reviewed our code, prototyped our application and committed the changes to our github repository.<br></li> 
 
+<h2 align="center"> Working Demo </h2>  
 
-
-
-
+![Demo1](https://github.com/ReanSchwarzer1/Self-Driving-Car-Unity/blob/master/Assets/nn1.gif "Demo1")
+![Demo1](https://github.com/ReanSchwarzer1/Self-Driving-Car-Unity/blob/master/Assets/nn1.gif "Demo1")
 
 
 
@@ -76,3 +76,9 @@ Construction phase previews<br>
 
 
 Download and install ARCHitechDemo.apk and run on an ARCore supported Device
+
+</body>
+</html>
+
+
+
