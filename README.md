@@ -67,7 +67,7 @@ Construction phase previews<br>
 
 <h2 align="center"> Working Demo </h2>  
 
-##For the full video visit: https://drive.google.com/file/d/1Vme4T5QHkhvyDRu-nrMR0awDXzoXvMdG/view
+For the full video visit: https://drive.google.com/file/d/1Vme4T5QHkhvyDRu-nrMR0awDXzoXvMdG/view
 
 ![Demo1](https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/demo1.gif "Demo1")
 ![Demo2](https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/demo2.gif "Demo2")
