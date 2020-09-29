@@ -37,13 +37,33 @@ Empty 1:1 scale model of a House with a UI overlay
 <h2 align="center"> Day 2 Additions for the Hackathon </h2>  
 
 <p align="center">
-<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2add.PNG?raw=true" style="width:80px;height:80px;">
+<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2add.PNG?raw=true">
 </p>
 
 <p align="center">
-<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2ui.PNG?raw=true"style="width:80px;height:80px;">
+<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2ui.PNG?raw=true">
 </p>
 
+<h2 align="center"> Day 3 additions </h2>  
+<li>We started out with an aim to create an immersive AR experience. Our initial project idea was an AR Portal which would present the user with a real-time render of the interior of the models.<br></li> 
+Problems faced:
+We realized this solution doesn’t accurately represent a real-estate demonstration.
+We faced problems with multiple mask renders.
+
+<li>Started coding the solution and modelling the preview models on C4D only to face export issues, therefore changing our tool to Blender.
+We acquired new skills such as:<br></li> 
+Animating UI in Unity and quick scene transitions for better UX
+Advanced modelling and texture baking in Blender
+EchoAR SDK and seamless implementation
+Model runtime implementation in Unity using Echo AR SDK
+ARCore Cloud Anchors (GPS Trackers)
+
+<li>Upon consulting with Mentor who suggested we increase the scope of our solution we added new and improved functionalities such as:<br></li> 
+Easy addition of Custom models using EchoAR console
+Addition of EchoAR APIs in the client side application
+Construction phase previews
+
+<li>Finally we reviewed our code, prototyped our application and committed the changes to our github repository.<br></li> 
 
 
 
