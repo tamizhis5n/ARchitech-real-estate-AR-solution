@@ -41,7 +41,7 @@ Empty 1:1 scale model of a House with a UI overlay
 </p>
 
 <p align="center">
-<img src="https://github.com/ReanSchwarzer1/Acceture-Hackathon-MaTrEx/blob/master/Research%20Paper/Research%20Paper.png?raw=true">
+<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2ui.PNG?raw=true">
 </p>
 
 
