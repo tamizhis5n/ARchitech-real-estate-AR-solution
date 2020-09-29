@@ -46,22 +46,22 @@ Empty 1:1 scale model of a House with a UI overlay
 
 <h2 align="center"> Day 3 additions </h2>  
 <li>We started out with an aim to create an immersive AR experience. Our initial project idea was an AR Portal which would present the user with a real-time render of the interior of the models.<br></li> 
-Problems faced:
-We realized this solution doesn’t accurately represent a real-estate demonstration.
-We faced problems with multiple mask renders.
+Problems faced:<br>
+We realized this solution doesn’t accurately represent a real-estate demonstration.<br>
+We faced problems with multiple mask renders.<br>
 
 <li>Started coding the solution and modelling the preview models on C4D only to face export issues, therefore changing our tool to Blender.
 We acquired new skills such as:<br></li> 
-Animating UI in Unity and quick scene transitions for better UX
-Advanced modelling and texture baking in Blender
-EchoAR SDK and seamless implementation
-Model runtime implementation in Unity using Echo AR SDK
-ARCore Cloud Anchors (GPS Trackers)
+Animating UI in Unity and quick scene transitions for better UX<br>
+Advanced modelling and texture baking in Blender<br>
+EchoAR SDK and seamless implementation<br>
+Model runtime implementation in Unity using Echo AR SDK<br>
+ARCore Cloud Anchors (GPS Trackers)<br>
 
 <li>Upon consulting with Mentor who suggested we increase the scope of our solution we added new and improved functionalities such as:<br></li> 
-Easy addition of Custom models using EchoAR console
-Addition of EchoAR APIs in the client side application
-Construction phase previews
+Easy addition of Custom models using EchoAR console<br>
+Addition of EchoAR APIs in the client side application<br>
+Construction phase previews<br>
 
 <li>Finally we reviewed our code, prototyped our application and committed the changes to our github repository.<br></li> 
 
