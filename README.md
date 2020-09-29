@@ -17,12 +17,22 @@ To combat such a situation, we have devised an infrastructure platform that has 
 
 Using cutting edge Augmented Reality technology powered by AR Cloud Service Echo AR, which allows for the placement and view of real-estate in real-time, the application allows for the collaboration of all fields within the ‘infrastructure’ realm to provide a succinct view of multiple renditions of the house, including the finished, unfinished and an under construction view.
 <h2 align="center"> Tech Stack </h2>  
-<ul>Echo AR</ul> 
-<ul>Unity Engine</ul> 
-<ul>Blender</ul> 
-<ul>Android (v7 and above) Device with ARCore support</ul> 
+<li>Echo AR<br></li>
+<li>Unity Engine<br></li>
+<li>Blender<br></li>
+<li>Unity Engine<br></li>
+<li>Android (v7 and above) Device with ARCore support<br></li>
 
+<h2 align="center"> Application of Augmented Reality </h2>  
 
+A real-time Augmented Reality application which renders multiple infrastructural models in worldspace through Android Devices with an ARCore enabled Camera. 
+AR modules include 1:1 scale interactable and explorable models. These modules can be selected manually by the user through the UI menu.
+The modules consist of:
+Furnished 1:1 scale model of a House with a UI overlay
+Empty 1:1 scale model of a House with a UI overlay
+1:1 scale model of a House with structural details such as layout and sizes.
+
+Additional echoARbuddy app includes Construction Phases expressed through 3D models created in Blender and rendered through the echoAR console
 
 
 
