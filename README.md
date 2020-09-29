@@ -37,11 +37,11 @@ Empty 1:1 scale model of a House with a UI overlay
 <h2 align="center"> Day 2 Additions for the Hackathon </h2>  
 
 <p align="center">
-<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2add.PNG?raw=true">
+<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2add.PNG?raw=true" style="width:80px;height:80px;">
 </p>
 
 <p align="center">
-<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2ui.PNG?raw=true">
+<img src="https://github.com/tamizhis5n/ARchitech-real-estate-AR-solution/blob/master/Images/day2ui.PNG?raw=true"style="width:80px;height:80px;">
 </p>
 
 
